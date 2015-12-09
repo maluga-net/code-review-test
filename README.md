@@ -1,5 +1,6 @@
-=== Code Review Test ===
+Code Review Test
+================
 
 * One
 * Two
-* Four
+* Three
